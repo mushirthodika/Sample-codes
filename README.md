@@ -14,3 +14,5 @@ stab_analysis_555.m --> Code for performing (5,5,5) Generalized Pade approximant
 cap-int.py --> Subroutine for calculating complex absorbing potential matrix elements in the atomic basis. (Reference - J. Chem. Phys. 115, 6853, 2001)
 
 asymmdw_kh.f90 --> Calculates a time-averaged Kramers-Henneberger potential for a given molecular potential. (Reference - Phys. Rev. Lett. 21, 838, 1968)
+
+reversepulse.m --> Code for performing imaginary time propagation using the split-operator technique.
